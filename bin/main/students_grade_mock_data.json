@@ -1,0 +1,301 @@
+[{
+  "id": 1,
+  "student": {
+    "guid": "4bcf8e5c-76d8-42c3-b1bc-b56bc1d67728",
+    "first_name": "Niki",
+    "last_name": "Allot",
+    "email": "nallot0@drupal.org"
+  },
+  "score": 31
+},
+  {
+    "id": 2,
+    "student": {
+      "guid": "defce7f0-1b5d-4c03-84cb-96ca6f2ca326",
+      "first_name": "Scott",
+      "last_name": "Glennon",
+      "email": "sglennon1@bbc.co.uk"
+    },
+    "score": 20
+  },
+  {
+    "id": 3,
+    "student": {
+      "guid": "6f4919fa-1e10-4570-88fd-9acc17ff100d",
+      "first_name": "Gordie",
+      "last_name": "Fredy",
+      "email": "gfredy2@cnbc.com"
+    },
+    "score": 51
+  },
+  {
+    "id": 4,
+    "student": {
+      "guid": "595710da-984c-440d-a7a3-e688f36df5a6",
+      "first_name": "Barret",
+      "last_name": "Wallentin",
+      "email": "bwallentin3@army.mil"
+    },
+    "score": 23
+  },
+  {
+    "id": 5,
+    "student": {
+      "guid": "215f009e-da7b-4686-aa72-7b43968b30cc",
+      "first_name": "Mariska",
+      "last_name": "Pilmore",
+      "email": "mpilmore4@ftc.gov"
+    },
+    "score": 29
+  },
+  {
+    "id": 6,
+    "student": {
+      "guid": "ef312aab-fb98-43f6-a488-66b6c7d2e059",
+      "first_name": "Odelinda",
+      "last_name": "Varty",
+      "email": "ovarty5@g.co"
+    },
+    "score": 55
+  },
+  {
+    "id": 7,
+    "student": {
+      "guid": "338361a8-a4b6-4d9f-8c09-4cb20ba0b8db",
+      "first_name": "Vladamir",
+      "last_name": "Batcheldor",
+      "email": "vbatcheldor6@huffingtonpost.com"
+    },
+    "score": 40
+  },
+  {
+    "id": 8,
+    "student": {
+      "guid": "82f32371-c065-48f9-9378-3027f0f2a54c",
+      "first_name": "Ellissa",
+      "last_name": "Linzee",
+      "email": "elinzee7@springer.com"
+    },
+    "score": 59
+  },
+  {
+    "id": 9,
+    "student": {
+      "guid": "1662f396-ec6d-4ec0-a7c6-d99d471e37ca",
+      "first_name": "Dorotea",
+      "last_name": "Cantrill",
+      "email": "dcantrill8@ehow.com"
+    },
+    "score": 82
+  },
+  {
+    "id": 10,
+    "student": {
+      "guid": "4c34beb0-69da-41d7-afd5-7a9bb155be1e",
+      "first_name": "Dalenna",
+      "last_name": "Forkan",
+      "email": "dforkan9@si.edu"
+    },
+    "score": 98
+  },
+  {
+    "id": 11,
+    "student": {
+      "guid": "adf33b52-1e33-40ac-8523-126f041a65c9",
+      "first_name": "Dorette",
+      "last_name": "Leare",
+      "email": "dlearea@sogou.com"
+    },
+    "score": 1
+  },
+  {
+    "id": 12,
+    "student": {
+      "guid": "88729c3b-0346-44dc-ae0b-270f5cac79ec",
+      "first_name": "Esmeralda",
+      "last_name": "Illidge",
+      "email": "eillidgeb@jigsy.com"
+    },
+    "score": 11
+  },
+  {
+    "id": 13,
+    "student": {
+      "guid": "1259137f-eb1d-48b6-934e-27e1f93cb3f4",
+      "first_name": "Katya",
+      "last_name": "Alessandrini",
+      "email": "kalessandrinic@yellowbook.com"
+    },
+    "score": 53
+  },
+  {
+    "id": 14,
+    "student": {
+      "guid": "4a24bd90-3320-40ae-badb-4018de8ab876",
+      "first_name": "Winston",
+      "last_name": "Coathup",
+      "email": "wcoathupd@washingtonpost.com"
+    },
+    "score": 99
+  },
+  {
+    "id": 15,
+    "student": {
+      "guid": "dd722336-dad5-449e-9415-5139f0b8ee54",
+      "first_name": "Jackquelin",
+      "last_name": "Cockshtt",
+      "email": "jcockshtte@meetup.com"
+    },
+    "score": 91
+  },
+  {
+    "id": 16,
+    "student": {
+      "guid": "53121655-52b8-4509-b973-edb381c6ea74",
+      "first_name": "Alexandros",
+      "last_name": "Snasel",
+      "email": "asnaself@yellowbook.com"
+    },
+    "score": 69
+  },
+  {
+    "id": 17,
+    "student": {
+      "guid": "859cb7e3-3c83-44ac-9ba0-d8543bbba3df",
+      "first_name": "Cyndie",
+      "last_name": "Wreath",
+      "email": "cwreathg@bravesites.com"
+    },
+    "score": 31
+  },
+  {
+    "id": 18,
+    "student": {
+      "guid": "da7bc0f1-1f64-4a9a-adba-a72c8a6d06cd",
+      "first_name": "Jeane",
+      "last_name": "Mardle",
+      "email": "jmardleh@japanpost.jp"
+    },
+    "score": 61
+  },
+  {
+    "id": 19,
+    "student": {
+      "guid": "6b210946-c888-41ca-8ba3-eacf350f64a2",
+      "first_name": "Starlin",
+      "last_name": "Apted",
+      "email": "saptedi@jalbum.net"
+    },
+    "score": 63
+  },
+  {
+    "id": 20,
+    "student": {
+      "guid": "7e3735a4-c683-445c-ae19-63211ace1016",
+      "first_name": "Andre",
+      "last_name": "Iacofo",
+      "email": "aiacofoj@walmart.com"
+    },
+    "score": 31
+  },
+  {
+    "id": 21,
+    "student": {
+      "guid": "3862bb47-b8ab-4028-b1dc-9140a638f853",
+      "first_name": "Maighdiln",
+      "last_name": "Weeks",
+      "email": "mweeksk@merriam-webster.com"
+    },
+    "score": 81
+  },
+  {
+    "id": 22,
+    "student": {
+      "guid": "4a5bc4ca-3d79-4d04-aae5-409a185b8486",
+      "first_name": "Babara",
+      "last_name": "Berkelay",
+      "email": "bberkelayl@diigo.com"
+    },
+    "score": 31
+  },
+  {
+    "id": 23,
+    "student": {
+      "guid": "811bffdb-63f2-464e-8ad8-d0e66fad9f8b",
+      "first_name": "Ingar",
+      "last_name": "Pollicott",
+      "email": "ipollicottm@sohu.com"
+    },
+    "score": 74
+  },
+  {
+    "id": 24,
+    "student": {
+      "guid": "96ea21c8-1e1f-474e-b9fb-1222b4b91908",
+      "first_name": "Thea",
+      "last_name": "Kuhnwald",
+      "email": "tkuhnwaldn@freewebs.com"
+    },
+    "score": 53
+  },
+  {
+    "id": 25,
+    "student": {
+      "guid": "5ebe19a9-1694-49da-be85-e4194da5784e",
+      "first_name": "Kassey",
+      "last_name": "O'Gorman",
+      "email": "kogormano@answers.com"
+    },
+    "score": 46
+  },
+  {
+    "id": 26,
+    "student": {
+      "guid": "e2e5966c-4d63-4fb6-aec3-85231caf3c36",
+      "first_name": "Davie",
+      "last_name": "Tink",
+      "email": "dtinkp@printfriendly.com"
+    },
+    "score": 72
+  },
+  {
+    "id": 27,
+    "student": {
+      "guid": "df38225f-8778-40c2-87bb-11032977e552",
+      "first_name": "Tyson",
+      "last_name": "Drohane",
+      "email": "tdrohaneq@eepurl.com"
+    },
+    "score": 70
+  },
+  {
+    "id": 28,
+    "student": {
+      "guid": "34d88fe6-c6ae-46cb-b7cb-3d0f08952a76",
+      "first_name": "Devina",
+      "last_name": "Dormer",
+      "email": "ddormerr@ihg.com"
+    },
+    "score": 20
+  },
+  {
+    "id": 29,
+    "student": {
+      "guid": "05a6f6f2-1753-4713-be8d-bd9cdcb822c2",
+      "first_name": "Reinald",
+      "last_name": "Kenderdine",
+      "email": "rkenderdines@huffingtonpost.com"
+    },
+    "score": 46
+  },
+  {
+    "id": 30,
+    "student": {
+      "guid": "c804867c-34c2-4af9-9f24-3cffdc3c0a36",
+      "first_name": "Blondie",
+      "last_name": "Ervine",
+      "email": "bervinet@scientificamerican.com"
+    },
+    "score": 98
+  }
+]
